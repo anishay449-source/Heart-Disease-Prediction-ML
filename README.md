@@ -81,3 +81,26 @@ python heart_disease_prediction.py
 * Hyperparameter Tuning
 * Deployment using Streamlit
 
+## Generated Visualizations
+
+### Age Distribution
+
+![Age Distribution](images/age_distribution.png)
+
+### Heart Disease Count
+
+![Disease Count](images/disease_count.png)
+
+### Cholesterol Distribution
+
+![Cholesterol Distribution](images/cholesterol_distribution.png)
+
+### Correlation Heatmap
+
+![Heatmap](images/heatmap.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+
