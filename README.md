@@ -82,7 +82,6 @@ python heart_disease_prediction.py
 * Deployment using Streamlit
 
 ## Generated Visualizations
-
 ### Age Distribution
 
 ![Age Distribution](images/age_distribution.png)
