@@ -67,7 +67,7 @@ The model predicts the presence of heart disease based on patient health informa
 ## How to Run
 
 ### Clone Repository
-git clone https://github.com/yourusername/Heart-Disease-Prediction-ML.git
+git clone https://github.com/anishay449-source/Heart-Disease-Prediction-ML.git
 
 ### Install Dependencies
 pip install -r requirements.txt
